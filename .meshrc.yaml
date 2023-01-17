@@ -1,0 +1,5 @@
+sources:
+  - name: MyGraphQLApi
+    handler:
+      graphql:
+        endpoint: https://countries.trevorblades.com/graphql
