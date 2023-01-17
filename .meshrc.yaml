@@ -3,3 +3,4 @@ sources:
     handler:
       graphql:
         endpoint: https://countries.trevorblades.com/graphql
+        source: schema.json
